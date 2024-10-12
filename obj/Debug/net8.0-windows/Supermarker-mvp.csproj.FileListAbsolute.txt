@@ -1,0 +1,16 @@
+C:\Users\JANER\source\repos\Supermarker-mvp\bin\Debug\net8.0-windows\Supermarker-mvp.exe
+C:\Users\JANER\source\repos\Supermarker-mvp\bin\Debug\net8.0-windows\Supermarker-mvp.deps.json
+C:\Users\JANER\source\repos\Supermarker-mvp\bin\Debug\net8.0-windows\Supermarker-mvp.runtimeconfig.json
+C:\Users\JANER\source\repos\Supermarker-mvp\bin\Debug\net8.0-windows\Supermarker-mvp.dll
+C:\Users\JANER\source\repos\Supermarker-mvp\bin\Debug\net8.0-windows\Supermarker-mvp.pdb
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker_mvp.Form1.resources
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.csproj.GenerateResource.cache
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.AssemblyInfoInputs.cache
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.AssemblyInfo.cs
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.csproj.CoreCompileInputs.cache
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.dll
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\refint\Supermarker-mvp.dll
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.pdb
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\Supermarker-mvp.genruntimeconfig.cache
+C:\Users\JANER\source\repos\Supermarker-mvp\obj\Debug\net8.0-windows\ref\Supermarker-mvp.dll
